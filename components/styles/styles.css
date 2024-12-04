@@ -63,7 +63,6 @@ header
 
 li{
     display: inline-block;
-    margin: 18px ;
 }
 
 a{
@@ -161,7 +160,6 @@ a{
 .footer {
     background-color: var(--color-black);
     width: 100%;
-    padding: 30px 10px;
     color: var(--color-white);
     display: flex;
     flex-direction: column;
